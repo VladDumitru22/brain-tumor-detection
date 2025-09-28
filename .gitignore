@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+*.env
+*.yml.lock
+
+# Data
+data/
+*.csv
+*.npy
+*.npz
+*.h5
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
